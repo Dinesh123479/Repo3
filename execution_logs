@@ -1,0 +1,15 @@
+Terraform Execution Logs
+
+Repository: Repo3
+
+Workflow Name: Terraform
+
+Execution Status:
+✓ Checkout Repository - Success
+✓ Setup Terraform - Success
+✓ Terraform Init - Success
+✓ Terraform Validate - Success
+✓ Terraform Plan - Success
+
+Result:
+Terraform workflow executed successfully without errors.
